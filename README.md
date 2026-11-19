@@ -1,18 +1,18 @@
-# Hi, I'm Phan Ngoc Vuong 👋
+# Hi, I'm Phan Ngoc Vuong 
 
 **Information Assurance student at FPT University (HCMC) · aspiring SOC Analyst**
 
 I like the defensive side of security: reading logs, writing detections and checking whether a defence
 actually works on a real network, not only in simulation.
 
-- 🔭 Researching **reinforcement learning for multi-layer cyber defence** (paper under review)
-- 🛡️ Building and testing detection pipelines with **Suricata** and **nginx** on a live attack range
-- ⚙️ Running infrastructure: **Docker Swarm, Kafka, Spark, Cassandra**
-- 🎯 Looking for a **SOC internship**
+-  Researching **reinforcement learning for multi-layer cyber defence** (paper under review)
+-  Building and testing detection pipelines with **Suricata** and **nginx** on a live attack range
+-  Running infrastructure: **Docker Swarm, Kafka, Spark, Cassandra**
+-  Looking for a **SOC internship**
 
 ---
 
-### 🔬 Research & Projects
+###  Research & Projects
 
 | Project | What it does | Stack |
 |---|---|---|
@@ -23,7 +23,7 @@ actually works on a real network, not only in simulation.
 
 ---
 
-### 🧰 Skills
+###  Skills
 
 - **Security:** Suricata · log analysis (nginx, eve.json) · Kali Linux · Ghidra · WinDbg · ClamAV · malware analysis basics
 - **Programming & ML:** Python (pandas, scikit-learn, PyTorch) · Bash · SQL · Stable-Baselines3 · Gymnasium
@@ -32,7 +32,7 @@ actually works on a real network, not only in simulation.
 
 ---
 
-### 🏅 Certifications & Awards
+###  Certifications & Awards
 
 - Applied Cryptography Specialization, University of Colorado (Coursera, 2026)
 - CertNexus Certified Ethical Emerging Technologist, Professional Certificate (Coursera, 2026)
@@ -41,7 +41,7 @@ actually works on a real network, not only in simulation.
 
 ---
 
-### 📫 Contact
+###  Contact
 
 - Email: vuongphan090106@gmail.com
 - GitHub: [@VuongPhan-09](https://github.com/VuongPhan-09)

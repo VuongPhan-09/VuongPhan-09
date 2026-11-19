@@ -17,7 +17,7 @@ actually works on a real network, not only in simulation.
 | Project | What it does | Stack |
 |---|---|---|
 | **Multi-layer cyber defence with RL** | Gymnasium SOC simulator built from real range logs (Kali, Suricata, nginx); RL agents vs a supervised classifier; live blocking on the real range | Python, Stable-Baselines3, scikit-learn, Suricata |
-| **VeRA** | Verifies what an LLM claims about decompiled binary functions, using Ghidra and sandboxed execution | Python, Ghidra, Docker, Ollama |
+| **[VeRA](https://github.com/VuongPhan-09/vera)** | Verifies what an LLM claims about decompiled binary functions, using Ghidra and sandboxed execution | Python, Ghidra, Docker, Ollama |
 | **VuongEdu** | AI learning assistant: RAG tutor with citations, quizzes and learning paths | FastAPI, ChromaDB, Gemini |
 | **IoT Manager telemetry** (internship) | Two-server HA app tier and a Kafka → Spark → Cassandra telemetry pipeline | Docker Swarm, HAProxy, Keepalived, Kafka, Spark, Cassandra |
 
